@@ -1,7 +1,9 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name": "Leads tracker",
+    "description": "Allows you to save links to use them whenever you wnat.",
+    "name": "Leads tracker by Bryan",
+    "author": "Bryan Méndez Garita",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
